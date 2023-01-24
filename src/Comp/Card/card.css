@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+
+.Main {
+    flex-direction: row;
+    display: flex;
+    border-bottom: 0.1rem solid #e2e2e2;
+}
+
+.Image {
+    width: 175px;
+    height: 250px;
+    left: 40px;
+    top: 100px;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+.Right {
+    display: flex;
+    flex-direction: row;
+    font-family: 'Inter', sans-serif;
+}
+
+.Rightcentre {
+    display: flex;
+    flex-direction: row;
+    position: static;
+}
+.Imageicon{
+    display: flex;
+    padding: 2px;
+    align-items: center;
+}

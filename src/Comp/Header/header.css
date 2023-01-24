@@ -1,0 +1,12 @@
+.header{
+background: #F55A5A;
+padding: 2px;
+font-weight: 900px;
+color: white;
+display: flex;
+justify-content: center;
+}
+.header-icon{
+color: white;
+padding: 8px;
+}
